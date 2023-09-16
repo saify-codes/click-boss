@@ -1,0 +1,4 @@
+.chats:empty{
+    background: url('/background.gif') center no-repeat;
+    background-size: contain;
+}
